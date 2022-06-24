@@ -200,9 +200,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\W10\\source\\repos\\odev-1-nihatcanertug\\WebApplication123\\WebApplication123\\WebApplication123.csproj",
-      "projectName": "WebApplication123",
-      "projectPath": "C:\\Users\\W10\\source\\repos\\odev-1-nihatcanertug\\WebApplication123\\WebApplication123\\WebApplication123.csproj",
+      "projectUniqueName": "C:\\Users\\W10\\source\\repos\\odev-1-nihatcanertug\\WebApplication123\\WebApplication123\\Todeb_CoreApi_bootcamp.csproj",
+      "projectName": "Todeb_CoreApi_bootcamp",
+      "projectPath": "C:\\Users\\W10\\source\\repos\\odev-1-nihatcanertug\\WebApplication123\\WebApplication123\\Todeb_CoreApi_bootcamp.csproj",
       "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\W10\\source\\repos\\odev-1-nihatcanertug\\WebApplication123\\WebApplication123\\obj\\",
       "projectStyle": "PackageReference",

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication123", "WebApplication123\WebApplication123.csproj", "{BCE8496B-B191-4551-A4A3-D7C5851E202C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todeb_CoreApi_Bootcamp", "WebApplication123\Todeb_CoreApi_Bootcamp.csproj", "{BCE8496B-B191-4551-A4A3-D7C5851E202C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
